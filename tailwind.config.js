@@ -13,6 +13,9 @@ export default {
       'lg': '1024px',
       // => @media (min-width: 1024px) { ... }
 
+      'mb': '1310px',
+      // => @media (min-width: 1310px) { ... }
+
       'xl': '1440px',
       // => @media (min-width: 1280px) { ... }
 
